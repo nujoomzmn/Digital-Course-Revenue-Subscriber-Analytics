@@ -69,8 +69,5 @@ The insights derived are crucial for **strategic decision-making in content stra
 ---
 
 
----
-
-## 📜 License  
-This project is for educational and analytical purposes. Attribution required if reused.  
+---  
 
